@@ -1,10 +1,10 @@
 # albumTiler
 image tiller for iphone and android
 
-##pre requisites
+## pre requisites
 install python required packages from the file req.txt
  by running this command in the directory req.txt is
-   #### COMMAND    pip install -r req.txt
+   ####    pip install -r req.txt
 
 
 run command
